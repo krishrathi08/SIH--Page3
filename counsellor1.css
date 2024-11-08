@@ -1,0 +1,703 @@
+.desktop-1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 1240px;
+    height: 882px;
+}
+.whatsapp-image-2024-09-19-at-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1240px;
+    height: 882px;
+    object-fit: cover;
+}
+.navbar {
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #fdc1a1;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 1242px;
+    height: 60px;
+}
+.desktop-1-item {
+    position: absolute;
+    top: 83px;
+    left: 416px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, rgba(112, 7, 7, 0.47) 91.95%, rgba(153, 109, 109, 0.47));
+    width: 353px;
+    height: 266px;
+}
+.desktop-1-inner {
+    position: absolute;
+    top: 502px;
+    left: 33px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: linear-gradient(180deg, #d25aed 16%, rgba(142, 93, 153, 0.46));
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 306px;
+    height: 354px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 88px;
+    left: 845px;
+    border-radius: 25px;
+    background-color: #bb9494;
+    width: 352px;
+    height: 775px;
+}
+.somerville-school {
+    position: absolute;
+    top: 452px;
+    left: 820px;
+    display: inline-block;
+    color: #fff;
+    width: 299px;
+    height: 50px;
+}
+.ryan-international {
+    position: absolute;
+    top: 491px;
+    left: 823px;
+    display: inline-block;
+    color: #fff;
+    width: 299px;
+    height: 50px;
+}
+.saint-joseph {
+    position: absolute;
+    top: 530px;
+    left: 797px;
+    display: inline-block;
+    color: #fff;
+    width: 299px;
+    height: 50px;
+}
+.nit-delhi {
+    position: absolute;
+    top: 564px;
+    left: 779px;
+    display: inline-block;
+    color: #fff;
+    width: 299px;
+    height: 50px;
+}
+.bennet-university {
+    position: absolute;
+    top: 601px;
+    left: 823px;
+    display: inline-block;
+    color: #fff;
+    width: 299px;
+    height: 50px;
+}
+.profile-child {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: #d8f7d3;
+    width: 306px;
+    height: 390px;
+}
+.images-removebg-preview-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 62px;
+    width: 183px;
+    height: 205px;
+    object-fit: cover;
+}
+.profile-item {
+    position: absolute;
+    top: 158px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.94);
+    width: 306px;
+    height: 242px;
+}
+.profile-inner {
+    position: absolute;
+    top: 179px;
+    left: 153px;
+    border-radius: 25px;
+    background-color: #c7d6fc;
+    width: 131px;
+    height: 53px;
+}
+.profile {
+    position: absolute;
+    top: 73px;
+    left: 33px;
+    width: 306px;
+    height: 400px;
+}
+.eanrnings-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: #fd7575;
+    width: 353px;
+    height: 473px;
+}
+.eanrnings-item {
+    position: absolute;
+    top: 144px;
+    left: 1px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.94);
+    width: 352px;
+    height: 329px;
+}
+.eanrnings {
+    position: absolute;
+    top: 390px;
+    left: 416px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 353px;
+    height: 473px;
+}
+.home {
+    position: absolute;
+    top: 17px;
+    left: 316px;
+    font-size: 16px;
+}
+.sessions {
+    position: absolute;
+    top: 17px;
+    left: 573px;
+    font-size: 16px;
+}
+.contact {
+    position: absolute;
+    top: 17px;
+    left: 724px;
+    font-size: 16px;
+}
+.profile1 {
+    position: absolute;
+    top: 17px;
+    left: 443px;
+    font-size: 16px;
+}
+.download-1-icon {
+    position: absolute;
+    top: 11px;
+    left: 864px;
+    width: 37px;
+    height: 30px;
+    object-fit: cover;
+}
+.button1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: #c7d6fc;
+    width: 131px;
+    height: 53px;
+}
+.schedule-session {
+    position: absolute;
+    top: 8px;
+    left: 13px;
+    display: inline-block;
+    width: 105px;
+    height: 20px;
+}
+.button1 {
+    position: absolute;
+    top: 252px;
+    left: 44px;
+    width: 131px;
+    height: 53px;
+    font-size: 16px;
+}
+.your-sessions {
+    position: absolute;
+    top: 260px;
+    left: 200px;
+    font-size: 16px;
+    display: inline-block;
+    width: 102px;
+    height: 34px;
+}
+.colleges-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: #b59aeb;
+    width: 244px;
+    height: 61px;
+}
+.approach-nearby-schools {
+    position: absolute;
+    top: 10px;
+    left: 22px;
+    display: inline-block;
+    width: 198px;
+    height: 41px;
+}
+.colleges {
+    position: absolute;
+    top: 321px;
+    left: 58px;
+    width: 244px;
+    height: 61px;
+    font-size: 16px;
+}
+.freinds-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: #c7d6fc;
+    width: 244px;
+    height: 61px;
+}
+.your-friends {
+    position: absolute;
+    top: 17px;
+    left: 37px;
+    display: inline-block;
+    width: 165px;
+    height: 44px;
+}
+.freinds {
+    position: absolute;
+    top: 390px;
+    left: 58px;
+    width: 244px;
+    height: 61px;
+}
+.history-child {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    border-radius: 25px;
+    background-color: #e3dcb0;
+    width: 230px;
+    height: 67px;
+}
+.total-sessions {
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    display: inline-block;
+    width: 241px;
+    height: 67px;
+}
+.history {
+    position: absolute;
+    top: 516px;
+    left: 67px;
+    width: 241px;
+    height: 76px;
+}
+.vansh-garg {
+    position: absolute;
+    top: 52px;
+    left: 0px;
+    display: inline-block;
+    width: 246px;
+    height: 46px;
+}
+.akshat-rathi {
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    display: inline-block;
+    width: 246px;
+    height: 46px;
+}
+.download-removebg-preview-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 26px;
+    width: 26.1px;
+    height: 25px;
+    object-fit: cover;
+}
+.download-removebg-preview-2-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 26.1px;
+    height: 25px;
+    object-fit: cover;
+}
+.download-removebg-preview-3-icon {
+    position: absolute;
+    top: 0px;
+    left: 83px;
+    width: 26.1px;
+    height: 25px;
+    object-fit: cover;
+}
+.download-removebg-preview-4-icon {
+    position: absolute;
+    top: 0px;
+    left: 53px;
+    width: 26.1px;
+    height: 25px;
+    object-fit: cover;
+}
+.stars {
+    position: absolute;
+    top: 0px;
+    left: 206px;
+    width: 109.1px;
+    height: 25px;
+}
+.stars1 {
+    position: absolute;
+    top: 50px;
+    left: 206px;
+    width: 109.1px;
+    height: 25px;
+}
+.b {
+    position: absolute;
+    top: 29px;
+    left: 40px;
+    display: inline-block;
+    color: #fffff0;
+    width: 293px;
+    height: 26px;
+}
+.vansh-garg-parent {
+    position: absolute;
+    top: 617px;
+    left: 6px;
+    width: 333px;
+    height: 98px;
+    color: #fff;
+}
+.ritesha-pal-parent {
+    position: absolute;
+    top: 715px;
+    left: 6px;
+    width: 333px;
+    height: 98px;
+    color: #fff;
+}
+.b2 {
+    position: absolute;
+    top: 692px;
+    left: 46px;
+    display: inline-block;
+    color: #fffff0;
+    width: 293px;
+    height: 26px;
+}
+.total-earnings {
+    position: absolute;
+    top: 403px;
+    left: 448px;
+    font-size: 32px;
+    display: inline-block;
+    color: #fffbd3;
+    width: 276px;
+    height: 48px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.this-section-shows {
+    position: absolute;
+    top: 447px;
+    left: 443px;
+    font-size: 16px;
+    display: inline-block;
+    width: 279px;
+    height: 53px;
+}
+.mothlyearning-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: #d9d9d9;
+    width: 289px;
+    height: 66px;
+}
+.july {
+    position: absolute;
+    top: 14px;
+    left: 17px;
+    display: inline-block;
+    width: 93px;
+    height: 32px;
+}
+.b3 {
+    position: absolute;
+    top: 17px;
+    left: 122px;
+    font-size: 24px;
+    display: inline-block;
+    width: 148px;
+    height: 32px;
+}
+.mothlyearning {
+    position: absolute;
+    top: 576px;
+    left: 451px;
+    width: 289px;
+    height: 66px;
+    font-size: 32px;
+}
+.mothlyearning2 {
+    position: absolute;
+    top: 81px;
+    left: 0px;
+    width: 289px;
+    height: 66px;
+}
+.mothlyearning1 {
+    position: absolute;
+    top: 657px;
+    left: 451px;
+    width: 289px;
+    height: 147px;
+    font-size: 32px;
+}
+.desktop-1-child1 {
+    position: absolute;
+    top: 83px;
+    left: 417px;
+    border-radius: 25px 25px 0px 0px;
+    background-color: rgba(255, 255, 255, 0.94);
+    width: 352px;
+    height: 58px;
+}
+.your-details {
+    position: absolute;
+    top: 94px;
+    left: 442px;
+    font-size: 32px;
+    display: inline-block;
+    width: 289px;
+    height: 37px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.dr-akhilesh-choudhaha {
+    margin: 0;
+}
+.dr-akhilesh-choudhaha-container {
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    display: inline-block;
+    width: 306px;
+    height: 20px;
+}
+.mbbs-pschology-honors {
+    position: absolute;
+    top: 31px;
+    left: 39px;
+    display: inline-block;
+    width: 240px;
+    height: 33px;
+}
+.akhiabccom {
+    position: absolute;
+    top: 61px;
+    left: 56px;
+    display: inline-block;
+    width: 194px;
+    height: 34px;
+}
+.doctor-in-aiims {
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    display: inline-block;
+    width: 302px;
+    height: 50px;
+}
+.b6 {
+    position: absolute;
+    top: 128px;
+    left: 40px;
+    display: inline-block;
+    width: 213px;
+    height: 35px;
+}
+.details {
+    position: absolute;
+    top: 160px;
+    left: 437px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 312px;
+    height: 163px;
+    font-size: 16px;
+    color: #fefdfb;
+}
+.reach-out-institutions {
+    position: absolute;
+    top: 107px;
+    left: 869px;
+    font-size: 32px;
+    display: inline-block;
+    width: 314px;
+    height: 53px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(255, 240, 73, 0.25);
+}
+.download-removebg-preview-1 {
+    position: absolute;
+    top: 10px;
+    left: 925px;
+    width: 36px;
+    height: 38px;
+    object-fit: cover;
+}
+.screenshot-2024-07-10-182322 {
+    position: absolute;
+    top: 212px;
+    left: 869px;
+    border-radius: 25px;
+    width: 304px;
+    height: 208px;
+    object-fit: cover;
+}
+.material-symbolscall-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.material-symbolsmail-icon {
+    position: absolute;
+    top: 0px;
+    left: 53px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.iconify {
+    position: absolute;
+    top: 453px;
+    left: 1096px;
+    width: 77px;
+    height: 24px;
+}
+.iconify1 {
+    position: absolute;
+    top: 492px;
+    left: 1096px;
+    width: 77px;
+    height: 24px;
+}
+.iconify2 {
+    position: absolute;
+    top: 530px;
+    left: 1096px;
+    width: 77px;
+    height: 24px;
+}
+.iconify3 {
+    position: absolute;
+    top: 568px;
+    left: 1096px;
+    width: 77px;
+    height: 24px;
+}
+.iconify4 {
+    position: absolute;
+    top: 601px;
+    left: 1096px;
+    width: 77px;
+    height: 24px;
+}
+.desktop-1-child2 {
+    position: absolute;
+    top: 648px;
+    left: 845px;
+    border-radius: 0px 0px 25px 25px;
+    background-color: #f69c9c;
+    border-bottom: 1px solid #000;
+    box-sizing: border-box;
+    width: 352px;
+    height: 215px;
+}
+.previous-sessions {
+    position: absolute;
+    top: 662px;
+    left: 857px;
+    font-size: 32px;
+    display: inline-block;
+    width: 328px;
+    height: 30px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.saint-joseph1 {
+    position: absolute;
+    top: 48px;
+    left: 0px;
+    display: inline-block;
+    width: 246px;
+    height: 46px;
+}
+.ryan-interna {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    display: inline-block;
+    width: 246px;
+    height: 46px;
+}
+.stars4 {
+    position: absolute;
+    top: 0px;
+    left: 234px;
+    width: 109.1px;
+    height: 25px;
+}
+.stars5 {
+    position: absolute;
+    top: 46px;
+    left: 234px;
+    width: 109.1px;
+    height: 25px;
+}
+.b7 {
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    display: inline-block;
+    color: #fffff0;
+    width: 293px;
+    height: 26px;
+}
+.saint-joseph-parent {
+    position: absolute;
+    top: 731px;
+    left: 830px;
+    width: 343.1px;
+    height: 94px;
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 882px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Inter;
+}
+
